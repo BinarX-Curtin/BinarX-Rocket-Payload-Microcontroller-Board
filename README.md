@@ -1,5 +1,5 @@
 # BinarX Rocket Payload Microcontroller Board
-This repository contains the design files to produce the BinarX Rocket Payload Microcontroller Board which is used for our school holiday BinarX program.
+This repository contains the design files to produce the BinarX Rocket Payload Microcontroller Board which is used for our [BinarX 2024 school holiday program](https://github.com/BinarX-Curtin/School-Holiday-Program).
 
 ![BinarX Rocket Payload Microcontroller Board Pin Labels](https://github.com/BinarX-Curtin/BinarX-Rocket-Payload-Microcontroller-Board/assets/12658669/378e8908-8288-4a7e-9fb6-aaef0f5ba0a2)
 
